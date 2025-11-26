@@ -2,3 +2,4 @@ python:3.9-slim
 mysql:8.0
 redis:7.0-alpine
 python:3.9-bullseye
+python3-scrapy
